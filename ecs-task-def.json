@@ -76,6 +76,5 @@
   "memory": "3072",
   "registeredAt": "2026-11-19T15:33:13.484Z",
   "registeredBy": "arn:aws:iam::715841345153:user/karen-admin",
-  "enableFaultInjection": false,
   "tags": []
 }
